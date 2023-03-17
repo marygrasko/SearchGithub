@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.texth {
+    margin-bottom: 30px;
+    font-family: 'Roboto';
+    font-size: 25px;
+    color: #d0d7de;
+}
+
+body {
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.wrapper {
+    border-radius: 10px;
+    border: double #57606a;
+}
